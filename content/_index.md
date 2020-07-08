@@ -5,7 +5,7 @@ draft: true
 menu : 'main'
 ---
 
-# Subtitlred of page
+# Subtitl of page
 ## Sub subtitle 
 ###### MIni subtitle
 
