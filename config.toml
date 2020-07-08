@@ -1,5 +1,5 @@
 title = "sitename"
-baseURL = "https://example.com"
+baseURL = "https://goofy-meninsky-11f314.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
