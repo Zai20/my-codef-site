@@ -6,4 +6,4 @@ featured_image: /image2.jpg
 ---
 this is the text on start paage
 
-<a href="contact.md">contactpagelink?</a></p>
+<a href="/contact">contactpagelink?</a></p>
