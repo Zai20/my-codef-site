@@ -1,4 +1,4 @@
-title = "sitename"
+title = "MySite"
 baseURL = "https://goofy-meninsky-11f314.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "/t.jpg"
+  site_logo = "/t.webp"
   description = ""
   facebook = ""
   twitter = "https://twitter.com"

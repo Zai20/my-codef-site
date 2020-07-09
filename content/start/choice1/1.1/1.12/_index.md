@@ -1,7 +1,10 @@
 ---
-title: "Choice 1.1"
+title: "Into The woods"
 date: 2020-07-09T00:19:57+01:00
 draft: false
+featured_image: /woods.jpg
 ---
 
-this is the text on choice 1.1 page
+You see a something shiny hanging from a tree slightly off your path. 
+
+__Do you approach?__

@@ -4,6 +4,5 @@ date: 2020-07-07T17:59:42+01:00
 draft: false
 featured_image: /image2.jpg
 ---
-this is the text on start paage
+__There is a Pandemic! What do you do?__
 
-<a href="/contact">contactpagelink?</a></p>

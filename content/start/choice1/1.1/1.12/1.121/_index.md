@@ -1,7 +1,10 @@
 ---
-title: "Choice 1.121"
+title: "A River"
 date: 2020-07-09T00:19:57+01:00
 draft: false
----
+featured_image: /river.jpeg
 
-this is the text on choice 1.121 page
+---
+You reach a river
+
+__Do you cross the river or walk alongside it?__

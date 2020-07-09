@@ -1,30 +1,28 @@
 ---
-title: "koala (home)"
+title: "Home Page"
 date: 2020-07-07T11:43:54+01:00
 draft: false
 menu : 'main'
 ---
 
-# Subtitl of page
-## Sub subtitle 
-###### MIni subtitle
+# Home Page
+## This website is a website
+###### About this website
 
 _this is an ugly website_ 
 
 __this is an ugly website in bold__
 
-_**BOLD ITALIC WOW**_
+_**BOLD ITALIC**_
 
 - this
   - is 
-    - a list???
-    	- use tabs 
-    		
-    		 yeah tabs
+    - list (use tabs)
+
 
 this is a link [HERE](http://www.koalastothemax.com/)
 
-Image below!! (wikipedia blahblah)
+Image below!! (wikipedia)
 ![IMAGE HERE](k.jpg)
 
 > I've thought about living the koala's life, but you may need to petition the government quarantine rules to make it happen. Quarantine would make me extra grumpy.
@@ -34,11 +32,10 @@ Image below!! (wikipedia blahblah)
 <html>
 <header><title>Koala</title></header>
 <body>
-Hello Koala
+code below
 </body>
 </html>
 
-code below 
 
 ```
 <html>
