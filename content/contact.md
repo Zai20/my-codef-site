@@ -6,4 +6,9 @@ menu : 'main'
 featured_image: /empty.jpeg
 ---
 
+__Have any ideas about the story?__
+
+__How have you been spending your time during quarantine?__
+
+
 {{< form-contact action="https://formspree.io/mwkrrwbj" >}}
