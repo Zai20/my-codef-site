@@ -8,7 +8,7 @@ menu : 'main'
 # Home Page
 ## This story is unfinished, if you have any ideas, please use the contact page!
 
-
+<a href="/start">START HERE</a></p>
 
 
 
