@@ -6,8 +6,19 @@ menu : 'main'
 ---
 
 # Home Page
-## This website is a website
-###### About this website
+## This story is unfinished, if you have any ideas, please use the contact page!
+
+
+
+
+
+
+
+
+
+
+
+###### Testing below//ignore 
 
 _this is an ugly website_ 
 
