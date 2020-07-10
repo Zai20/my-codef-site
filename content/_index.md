@@ -11,12 +11,12 @@ menu : 'main'
 <a href="/start">START HERE</a></p>
 
 
+<br><br>
 
 
+<a href="/contact">there is a problem with one of the pages</a></p>
 
-
-
-
+<br><br><br>
 
 ###### Testing below//ignore 
 
